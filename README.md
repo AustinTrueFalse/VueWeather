@@ -1,6 +1,12 @@
-# VueWheather
+# Weather App Vue 3 Single Page Application
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple single-page Vue 3 application with the ability to check the weather in one of the cities.
+
+## Stack
+
+- Vue 3
+- Axios
+- Bootstrap
 
 ## Recommended IDE Setup
 
